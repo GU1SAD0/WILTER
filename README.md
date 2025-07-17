@@ -131,7 +131,7 @@
         <nav class="container mx-auto px-4 flex justify-between items-center">
             <!-- Logo de WILTER -->
             <a href="#" class="flex items-center gap-2">
-                <img src="C:\Users\tehac\Downloads\PROYECTOS visual studio code\logo wilter puro logo.jpg" class="h-10 w-auto">
+                <img src=file:///C:/Users/tehac/Downloads/logo%20wilter%20puro%20logo.jpg" class="h-10 w-auto">
             </a>
 
             <!-- Desktop Navigation -->
