@@ -131,7 +131,7 @@
         <nav class="container mx-auto px-4 flex justify-between items-center">
             <!-- Logo de WILTER -->
             <a href="#" class="flex items-center gap-2">
-                <img src="http://googleusercontent.com/file_content/1" alt="Logo de WILTER" class="h-10 w-auto">
+                <img src="C:\Users\tehac\Downloads\PROYECTOS visual studio code\logo wilter puro logo.jpg" class="h-10 w-auto">
             </a>
 
             <!-- Desktop Navigation -->
@@ -198,7 +198,7 @@
             <h2 class="text-3xl md:text-4xl font-bold text-center text-[#00CFFF] mb-12 animate-fade-in">Quiénes Somos</h2>
             <div class="flex flex-col md:flex-row items-center gap-12">
                 <div class="md:w-1/2 animate-fade-in">
-                    <img src="https://placehold.co/600x400/1B1F27/00CFFF?text=Equipo+WILTER" alt="Equipo WILTER" class="rounded-xl shadow-lg w-full h-auto object-cover">
+                    <img src="C:\Users\tehac\Downloads\PROYECTOS visual studio code\1ra imagen.jpg" alt="Equipo WILTER" class="rounded-xl shadow-lg w-full h-auto object-cover">
                 </div>
                 <div class="md:w-1/2 text-[#B0BEC5] animate-fade-in">
                     <h3 class="text-2xl font-semibold text-[#4AE4B0] mb-4">Comercializadora y Servicios Integrales WILTER</h3>
@@ -413,49 +413,49 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
                 <!-- Producto: Cubrebocas -->
                 <div class="bg-[#1B1F27] rounded-xl shadow-md p-6 flex flex-col items-center text-center hover:shadow-lg transform hover:-translate-y-1 transition-all-ease animate-fade-in">
-                    <img src="https://placehold.co/150x150/101219/00CFFF?text=Cubrebocas" alt="Cubrebocas" class="rounded-lg mb-4 w-32 h-32 object-cover">
+                    <img src="C:\Users\tehac\Downloads\PROYECTOS visual studio code\imagen 2 cubre.jpeg" alt="Cubrebocas" class="rounded-lg mb-4 w-32 h-32 object-cover">
                     <h3 class="text-xl font-semibold text-[#00CFFF] mb-2">Cubrebocas</h3>
                     <p class="text-[#B0BEC5]">Protección esencial para ambientes de salud y seguridad.</p>
                 </div>
 
                 <!-- Producto: Concentradores de O2 -->
                 <div class="bg-[#1B1F27] rounded-xl shadow-md p-6 flex flex-col items-center text-center hover:shadow-lg transform hover:-translate-y-1 transition-all-ease animate-fade-in">
-                    <img src="https://placehold.co/150x150/101219/00CFFF?text=Concentrador+O2" alt="Concentrador de Oxígeno" class="rounded-lg mb-4 w-32 h-32 object-cover">
+                    <img src="C:\Users\tehac\Downloads\PROYECTOS visual studio code\imagen 22222.jpeg" alt="Concentrador de Oxígeno" class="rounded-lg mb-4 w-32 h-32 object-cover">
                     <h3 class="text-xl font-semibold text-[#00CFFF] mb-2">Concentradores de O2</h3>
                     <p class="text-[#B0BEC5]">Equipos para suministro de oxígeno, alta eficiencia y fiabilidad.</p>
                 </div>
 
                 <!-- Producto: Narices -->
                 <div class="bg-[#1B1F27] rounded-xl shadow-md p-6 flex flex-col items-center text-center hover:shadow-lg transform hover:-translate-y-1 transition-all-ease animate-fade-in">
-                    <img src="https://placehold.co/150x150/101219/00CFFF?text=Narices" alt="Narices" class="rounded-lg mb-4 w-32 h-32 object-cover">
+                    <img src="C:\Users\tehac\Downloads\PROYECTOS visual studio code\imagen 3 narizzzces.jpeg" alt="Narices" class="rounded-lg mb-4 w-32 h-32 object-cover">
                     <h3 class="text-xl font-semibold text-[#00CFFF] mb-2">Narices</h3>
                     <p class="text-[#B0BEC5]">Insumos médicos especializados para diversas aplicaciones.</p>
                 </div>
 
                 <!-- Producto: Filtros HEPA -->
                 <div class="bg-[#1B1F27] rounded-xl shadow-md p-6 flex flex-col items-center text-center hover:shadow-lg transform hover:-translate-y-1 transition-all-ease animate-fade-in">
-                    <img src="https://placehold.co/150x150/101219/00CFFF?text=Filtros+HEPA" alt="Filtros HEPA" class="rounded-lg mb-4 w-32 h-32 object-cover">
+                    <img src="C:\Users\tehac\Downloads\PROYECTOS visual studio code\imagen 4 hepa.jpeg" alt="Filtros HEPA" class="rounded-lg mb-4 w-32 h-32 object-cover">
                     <h3 class="text-xl font-semibold text-[#00CFFF] mb-2">Filtros HEPA</h3>
                     <p class="text-[#B0BEC5]">Filtros de alta eficiencia para purificación de aire en entornos críticos.</p>
                 </div>
 
                 <!-- Producto: Filtros para ventiladores -->
                 <div class="bg-[#1B1F27] rounded-xl shadow-md p-6 flex flex-col items-center text-center hover:shadow-lg transform hover:-translate-y-1 transition-all-ease animate-fade-in">
-                    <img src="https://placehold.co/150x150/101219/00CFFF?text=Filtros+Ventiladores" alt="Filtros para Ventiladores" class="rounded-lg mb-4 w-32 h-32 object-cover">
+                    <img src="C:\Users\tehac\Downloads\PROYECTOS visual studio code\imagen 5 filtro vent.png" alt="Filtros para Ventiladores" class="rounded-lg mb-4 w-32 h-32 object-cover">
                     <h3 class="text-xl font-semibold text-[#00CFFF] mb-2">Filtros para Ventiladores</h3>
                     <p class="text-[#B0BEC5]">Componentes esenciales para el correcto funcionamiento de ventiladores médicos.</p>
                 </div>
 
                 <!-- Producto: Mascarillas con reservorio -->
                 <div class="bg-[#1B1F27] rounded-xl shadow-md p-6 flex flex-col items-center text-center hover:shadow-lg transform hover:-translate-y-1 transition-all-ease animate-fade-in">
-                    <img src="https://placehold.co/150x150/101219/00CFFF?text=Mascarillas+Reservorio" alt="Mascarillas con Reservorio" class="rounded-lg mb-4 w-32 h-32 object-cover">
+                    <img src="C:\Users\tehac\Downloads\PROYECTOS visual studio code\imagen 777 ma.png" alt="Mascarillas con Reservorio" class="rounded-lg mb-4 w-32 h-32 object-cover">
                     <h3 class="text-xl font-semibold text-[#00CFFF] mb-2">Mascarillas con Reservorio</h3>
                     <p class="text-[#B0BEC5]">Dispositivos para administración de oxígeno con alta concentración.</p>
                 </div>
 
                 <!-- Producto: Vasos -->
                 <div class="bg-[#1B1F27] rounded-xl shadow-md p-6 flex flex-col items-center text-center hover:shadow-lg transform hover:-translate-y-1 transition-all-ease animate-fade-in">
-                    <img src="https://placehold.co/150x150/101219/00CFFF?text=Vasos" alt="Vasos" class="rounded-lg mb-4 w-32 h-32 object-cover">
+                    <img src="C:\Users\tehac\Downloads\PROYECTOS visual studio code\imagen 6 vasos.jpg" alt="Vasos" class="rounded-lg mb-4 w-32 h-32 object-cover">
                     <h3 class="text-xl font-semibold text-[#00CFFF] mb-2">Vasos</h3>
                     <p class="text-[#B0BEC5]">Consumibles médicos de uso general y especializado.</p>
                 </div>
