@@ -131,7 +131,7 @@
         <nav class="container mx-auto px-4 flex justify-between items-center">
             <!-- Logo de WILTER -->
             <a href="#" class="flex items-center gap-2">
-                <img src=file:///C:/Users/tehac/Downloads/logo%20wilter%20puro%20logo.jpg" class="h-10 w-auto">
+                <img src="[file:///C:/Users/tehac/Downloads/logo%20wilter%20puro%20logo.jpg](https://www.google.com/search?q=Mascarillas+con+Reservorio+ilustracion&sca_esv=edb9f998570affa4&udm=2&biw=1536&bih=730&ei=y154aJzUMf23qtsPuJv3iA8&ved=0ahUKEwjc5eWj68KOAxX9m2oFHbjNHfEQ4dUDCBE&uact=5&oq=Mascarillas+con+Reservorio+ilustracion&gs_lp=EgNpbWciJk1hc2NhcmlsbGFzIGNvbiBSZXNlcnZvcmlvIGlsdXN0cmFjaW9uSK8qULgEWKomcAF4AJABAJgBdaABsAmqAQM1Lje4AQPIAQD4AQGYAgKgAn7CAgoQABiABBhDGIoFwgIGEAAYBxgewgIFEAAYgATCAgQQABgewgIGEAAYCBgemAMAiAYBkgcDMS4xoAf5CbIHAzAuMbgHdsIHAzItMsgHDA&sclient=img&safe=active&ssui=on#vhid=LfM3y3ETGg1wJM&vssid=mosaic)" class="h-10 w-auto">
             </a>
 
             <!-- Desktop Navigation -->
